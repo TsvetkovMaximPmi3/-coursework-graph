@@ -1,0 +1,7 @@
+C:\Users\79302\Desktop\UD\UD\bin\Debug\UD.dll.config
+C:\Users\79302\Desktop\UD\UD\bin\Debug\UD.dll
+C:\Users\79302\Desktop\UD\UD\bin\Debug\UD.pdb
+C:\Users\79302\Desktop\UD\UD\obj\Debug\UD.csproj.CoreCompileInputs.cache
+C:\Users\79302\Desktop\UD\UD\obj\Debug\UD.dll
+C:\Users\79302\Desktop\UD\UD\obj\Debug\UD.pdb
+C:\Users\79302\Desktop\UD\UD\obj\Debug\UD.csprojAssemblyReference.cache

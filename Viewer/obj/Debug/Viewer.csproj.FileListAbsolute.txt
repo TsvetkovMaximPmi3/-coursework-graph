@@ -1,0 +1,14 @@
+C:\Users\79302\Desktop\UD\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\79302\Desktop\UD\Viewer\bin\Debug\Viewer.exe
+C:\Users\79302\Desktop\UD\Viewer\bin\Debug\Viewer.pdb
+C:\Users\79302\Desktop\UD\Viewer\bin\Debug\UD.dll
+C:\Users\79302\Desktop\UD\Viewer\bin\Debug\UD.pdb
+C:\Users\79302\Desktop\UD\Viewer\bin\Debug\UD.dll.config
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.csprojAssemblyReference.cache
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.Form1.resources
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.csproj.GenerateResource.cache
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.csproj.CopyComplete
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.exe
+C:\Users\79302\Desktop\UD\Viewer\obj\Debug\Viewer.pdb
